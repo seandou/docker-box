@@ -1,0 +1,10 @@
+.DS_Store
+
+*.log
+*.retry
+*.box
+*.iso
+
+.vagrant
+
+packer_cache
